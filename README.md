@@ -1,31 +1,13 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2> Hi, I'm Sebastián Greiner <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/8t7lXR6Sep8zB6v7El/giphy.gif" width="230">
+<p><em>Student at <a href="http://www.unb.br">University of NUR</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></p>
 
-## नमस्ते 🙏, I'm ASHRAF K.M 
-## Full Stack Developer 👨‍💻
-
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+[![GitHub sebasgre](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/sebasgre)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ashraf = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
-```
+### <img src="https://media.giphy.com/media/26FxFLIRsjweMvsnS/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="60"> <em><b>I like to learn new things every day and I also like to work in groups making projects.</b> </em>
 
 ---
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
 
+⭐️ From [@sebasgre](https://github.com/sebasgre/)
